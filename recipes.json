@@ -1,0 +1,17 @@
+{
+    "water+flour": "dough",
+    "dough+sugar": "sweet_dough",
+    "bake+sweet_dough": "sweet_cookie",
+    "sweet_cookie+chocolate":"choco_cookie",
+    "heat+milk": "Hot_Milk",
+    "flour+baking_powder": "baking_flour",
+    "milk+spongecake_powder": "spongecake_mixture",
+    "baking_flour+sugar":"spongecake_powder",
+    "spongecake_mixture+chocolate":"choco_spongecake_mix",
+    "bake+choco_spongecake_mix":"chocolate_spongecake",
+    "bake+spongecake_mixture":"spongecake",
+    "chocolate+milk":"chocolate_milk",
+    "sweet_dough+apple":"uncooked_apple_thingy",
+    "bake+uncooked_apple_thingy":"apple_pie",
+    "honey+yoghurt":"weird_breakfast"
+}

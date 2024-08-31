@@ -1,0 +1,5 @@
+user:read:chat
+user:bot
+channel:bot
+user:write:chat
+moderator:read:followers

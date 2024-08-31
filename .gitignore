@@ -1,1 +1,10 @@
 __pycache__
+*token
+apptoken
+usertoken
+oauth*
+cli
+obspass
+startstream.bat
+players
+cli_secret
